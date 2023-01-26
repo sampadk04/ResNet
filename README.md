@@ -2,7 +2,7 @@
 
 We implement ResNet-18 architecture from scratch using PyTorch. Implementation based off the original ResNet paper named "Deep Residual Learning for Image Recognition".
 
-We implement the ResNet-18 architechture from scratch using PyTorch and trainied it on `CIFAR-10` dataset.
+We implement the ResNet-18 architecture from scratch using PyTorch and trainied it on `CIFAR-10` dataset.
 
 <img src="sample_images/ResNet-18-architecture.png" alt="ResNet-18 Architecture" height="200" width="700"/>
 
